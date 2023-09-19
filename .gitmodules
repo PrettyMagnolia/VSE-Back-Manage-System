@@ -1,0 +1,6 @@
+[submodule "front-end"]
+	path = front-end
+	url = git@github.com:PrettyMagnolia/VSE-Back-Manage-System-Front-End.git
+[submodule "back-end"]
+	path = back-end
+	url = git@github.com:PrettyMagnolia/VSE-Back-Manage-System-Back-End.git

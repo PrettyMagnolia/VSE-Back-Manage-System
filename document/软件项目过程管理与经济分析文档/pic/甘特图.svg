@@ -1,0 +1,1080 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="951" width="1808" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1808 951">
+    <defs>
+        <clipPath id="clip1">
+            <path d="M.0,.0L805.9,.0L805.9,40.0L.0,40.0L.0,.0z"/>
+        </clipPath>
+        <linearGradient y2="0%" id="lg1" x2="0%" x1="0%" y1="100%">
+            <stop stop-color="#fbfcff" offset="0.00"/>
+            <stop stop-color="#fbfbff" offset="0.85"/>
+            <stop stop-color="#fafbff" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="0%" id="lg2" x2="100%" x1="0%" y1="0%">
+            <stop stop-color="#fbfcff" offset="0.00"/>
+            <stop stop-color="#fbfbff" offset="0.85"/>
+            <stop stop-color="#fafbff" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg3" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#fbfcff" offset="0.00"/>
+            <stop stop-color="#fbfbff" offset="0.85"/>
+            <stop stop-color="#fafbff" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="0%" id="lg4" x2="0%" x1="100%" y1="0%">
+            <stop stop-color="#fbfcff" offset="0.00"/>
+            <stop stop-color="#fbfbff" offset="0.85"/>
+            <stop stop-color="#fafbff" offset="1.00"/>
+        </linearGradient>
+        <clipPath id="clip2">
+            <path d="M805.9,.0L1806.9,.0L1806.9,20.0L805.9,20.0L805.9,.0z"/>
+        </clipPath>
+        <linearGradient y2="0%" id="lg5" x2="0%" x1="0%" y1="100%">
+            <stop stop-color="#fbfcff" offset="0.00"/>
+            <stop stop-color="#fbfbff" offset="0.85"/>
+            <stop stop-color="#fafbff" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="0%" id="lg6" x2="100%" x1="0%" y1="0%">
+            <stop stop-color="#fbfcff" offset="0.00"/>
+            <stop stop-color="#fbfbff" offset="0.85"/>
+            <stop stop-color="#fafbff" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg7" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#fbfcff" offset="0.00"/>
+            <stop stop-color="#fbfbff" offset="0.85"/>
+            <stop stop-color="#fafbff" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="0%" id="lg8" x2="0%" x1="100%" y1="0%">
+            <stop stop-color="#fbfcff" offset="0.00"/>
+            <stop stop-color="#fbfbff" offset="0.85"/>
+            <stop stop-color="#fafbff" offset="1.00"/>
+        </linearGradient>
+        <clipPath id="clip3">
+            <path d="M805.9,20.0L1806.9,20.0L1806.9,40.0L805.9,40.0L805.9,20.0z"/>
+        </clipPath>
+        <linearGradient y2="0%" id="lg9" x2="0%" x1="0%" y1="100%">
+            <stop stop-color="#fbfcff" offset="0.00"/>
+            <stop stop-color="#fbfbff" offset="0.85"/>
+            <stop stop-color="#fafbff" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="0%" id="lg10" x2="100%" x1="0%" y1="0%">
+            <stop stop-color="#fbfcff" offset="0.00"/>
+            <stop stop-color="#fbfbff" offset="0.85"/>
+            <stop stop-color="#fafbff" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg11" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#fbfcff" offset="0.00"/>
+            <stop stop-color="#fbfbff" offset="0.85"/>
+            <stop stop-color="#fafbff" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="0%" id="lg12" x2="0%" x1="100%" y1="0%">
+            <stop stop-color="#fbfcff" offset="0.00"/>
+            <stop stop-color="#fbfbff" offset="0.85"/>
+            <stop stop-color="#fafbff" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg13" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#b0bffe" offset="0.00"/>
+            <stop stop-color="#b0bffe" offset="0.50"/>
+            <stop stop-color="#b0bffe" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg14" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#b0b4df" offset="0.00"/>
+            <stop stop-color="#b0b4df" offset="0.50"/>
+            <stop stop-color="#b0b4df" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg15" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#ffc0be" offset="0.00"/>
+            <stop stop-color="#ffc0be" offset="0.50"/>
+            <stop stop-color="#ffc0be" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg16" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#ffe2b3" offset="0.00"/>
+            <stop stop-color="#ffe2b3" offset="0.50"/>
+            <stop stop-color="#ffe2b3" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg17" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#c5dcff" offset="0.00"/>
+            <stop stop-color="#c5dcff" offset="0.50"/>
+            <stop stop-color="#c5dcff" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg18" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#bec7ff" offset="0.00"/>
+            <stop stop-color="#bec7ff" offset="0.50"/>
+            <stop stop-color="#bec7ff" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg19" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#feccab" offset="0.00"/>
+            <stop stop-color="#feccab" offset="0.50"/>
+            <stop stop-color="#feccab" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg20" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#ffb9b7" offset="0.00"/>
+            <stop stop-color="#ffb9b7" offset="0.50"/>
+            <stop stop-color="#ffb9b7" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg21" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#aaaecc" offset="0.00"/>
+            <stop stop-color="#aaaecc" offset="0.50"/>
+            <stop stop-color="#aaaecc" offset="1.00"/>
+        </linearGradient>
+        <linearGradient y2="100%" id="lg22" x2="0%" x1="0%" y1="0%">
+            <stop stop-color="#b2e8df" offset="0.00"/>
+            <stop stop-color="#b2e8df" offset="0.50"/>
+            <stop stop-color="#b2e8df" offset="1.00"/>
+        </linearGradient>
+    </defs>
+    <g transform="translate(-636.50,-188.50)">
+        <g id="gantt1" transform="translate(637.00,189.00)">
+            <g clip-path="url(#clip1)">
+                <path stroke-width="2" stroke="url(#lg1)" d="M.0,.0L805.9,.0L403.0,20.0z" fill="url(#lg1)"/>
+            </g>
+            <g clip-path="url(#clip1)">
+                <path stroke-width="2" stroke="url(#lg2)" d="M805.9,.0L805.9,40.0L403.0,20.0z" fill="url(#lg2)"/>
+            </g>
+            <g clip-path="url(#clip1)">
+                <path stroke-width="2" stroke="url(#lg3)" d="M805.9,40.0L.0,40.0L403.0,20.0z" fill="url(#lg3)"/>
+            </g>
+            <g clip-path="url(#clip1)">
+                <path stroke-width="2" stroke="url(#lg4)" d="M.0,.0L.0,40.0L403.0,20.0z" fill="url(#lg4)"/>
+            </g>
+            <g clip-path="url(#clip2)">
+                <path stroke-width="2" stroke="url(#lg5)" d="M805.9,.0L1806.9,.0L1306.4,10.0z" fill="url(#lg5)"/>
+            </g>
+            <g clip-path="url(#clip2)">
+                <path stroke-width="2" stroke="url(#lg6)" d="M1806.9,.0L1806.9,20.0L1306.4,10.0z" fill="url(#lg6)"/>
+            </g>
+            <g clip-path="url(#clip2)">
+                <path stroke-width="2" stroke="url(#lg7)" d="M1806.9,20.0L805.9,20.0L1306.4,10.0z" fill="url(#lg7)"/>
+            </g>
+            <g clip-path="url(#clip2)">
+                <path stroke-width="2" stroke="url(#lg8)" d="M805.9,.0L805.9,20.0L1306.4,10.0z" fill="url(#lg8)"/>
+            </g>
+            <g clip-path="url(#clip3)">
+                <path stroke-width="2" stroke="url(#lg9)" d="M805.9,20.0L1806.9,20.0L1306.4,30.0z" fill="url(#lg9)"/>
+            </g>
+            <g clip-path="url(#clip3)">
+                <path stroke-width="2" stroke="url(#lg10)" d="M1806.9,20.0L1806.9,40.0L1306.4,30.0z" fill="url(#lg10)"/>
+            </g>
+            <g clip-path="url(#clip3)">
+                <path stroke-width="2" stroke="url(#lg11)" d="M1806.9,40.0L805.9,40.0L1306.4,30.0z" fill="url(#lg11)"/>
+            </g>
+            <g clip-path="url(#clip3)">
+                <path stroke-width="2" stroke="url(#lg12)" d="M805.9,20.0L805.9,40.0L1306.4,30.0z" fill="url(#lg12)"/>
+            </g>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="22.7" x="15.1">ID</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="22.7" x="84.1">任务名称</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="22.7" x="193.4">开始日期</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="22.7" x="287.9">结束日期</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="22.7" x="372.2">持续时间</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="22.7" x="454.3">完成</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="22.7" x="550.5">费用</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="22.7" x="650.5">人力资源</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="22.7" x="746.9">优先级</tspan>
+            </text>
+            <path d="M.0,40.0L1001.0,40.0L1001.0,75.0L.0,75.0L.0,40.0z" fill="#ffffff"/>
+            <path d="M.0,40.0L805.9,40.0L805.9,75.0L.0,75.0L.0,40.0z" fill="#fafbff"/>
+            <path d="M.0,75.0L1001.0,75.0L1001.0,110.0L.0,110.0L.0,75.0z" fill="#ffffff"/>
+            <path d="M.0,75.0L805.9,75.0L805.9,110.0L.0,110.0L.0,75.0z" fill="#fafbff"/>
+            <path d="M.0,110.0L1001.0,110.0L1001.0,145.0L.0,145.0L.0,110.0z" fill="#ffffff"/>
+            <path d="M.0,110.0L805.9,110.0L805.9,145.0L.0,145.0L.0,110.0z" fill="#fafbff"/>
+            <path d="M.0,145.0L1001.0,145.0L1001.0,180.0L.0,180.0L.0,145.0z" fill="#ffffff"/>
+            <path d="M.0,145.0L805.9,145.0L805.9,180.0L.0,180.0L.0,145.0z" fill="#fafbff"/>
+            <path d="M.0,180.0L1001.0,180.0L1001.0,215.0L.0,215.0L.0,180.0z" fill="#ffffff"/>
+            <path d="M.0,180.0L805.9,180.0L805.9,215.0L.0,215.0L.0,180.0z" fill="#fafbff"/>
+            <path d="M.0,215.0L1001.0,215.0L1001.0,250.0L.0,250.0L.0,215.0z" fill="#ffffff"/>
+            <path d="M.0,215.0L805.9,215.0L805.9,250.0L.0,250.0L.0,215.0z" fill="#fafbff"/>
+            <path d="M.0,250.0L1001.0,250.0L1001.0,285.0L.0,285.0L.0,250.0z" fill="#ffffff"/>
+            <path d="M.0,250.0L805.9,250.0L805.9,285.0L.0,285.0L.0,250.0z" fill="#fafbff"/>
+            <path d="M.0,285.0L1001.0,285.0L1001.0,320.0L.0,320.0L.0,285.0z" fill="#ffffff"/>
+            <path d="M.0,285.0L805.9,285.0L805.9,320.0L.0,320.0L.0,285.0z" fill="#fafbff"/>
+            <path d="M.0,320.0L1001.0,320.0L1001.0,355.0L.0,355.0L.0,320.0z" fill="#ffffff"/>
+            <path d="M.0,320.0L805.9,320.0L805.9,355.0L.0,355.0L.0,320.0z" fill="#fafbff"/>
+            <path d="M.0,355.0L1001.0,355.0L1001.0,390.0L.0,390.0L.0,355.0z" fill="#ffffff"/>
+            <path d="M.0,355.0L805.9,355.0L805.9,390.0L.0,390.0L.0,355.0z" fill="#fafbff"/>
+            <path d="M.0,390.0L1001.0,390.0L1001.0,425.0L.0,425.0L.0,390.0z" fill="#ffffff"/>
+            <path d="M.0,390.0L805.9,390.0L805.9,425.0L.0,425.0L.0,390.0z" fill="#fafbff"/>
+            <path d="M.0,425.0L1001.0,425.0L1001.0,460.0L.0,460.0L.0,425.0z" fill="#ffffff"/>
+            <path d="M.0,425.0L805.9,425.0L805.9,460.0L.0,460.0L.0,425.0z" fill="#fafbff"/>
+            <path d="M.0,460.0L1001.0,460.0L1001.0,495.0L.0,495.0L.0,460.0z" fill="#ffffff"/>
+            <path d="M.0,460.0L805.9,460.0L805.9,495.0L.0,495.0L.0,460.0z" fill="#fafbff"/>
+            <path d="M.0,495.0L1001.0,495.0L1001.0,530.0L.0,530.0L.0,495.0z" fill="#ffffff"/>
+            <path d="M.0,495.0L805.9,495.0L805.9,530.0L.0,530.0L.0,495.0z" fill="#fafbff"/>
+            <path d="M.0,530.0L1001.0,530.0L1001.0,565.0L.0,565.0L.0,530.0z" fill="#ffffff"/>
+            <path d="M.0,530.0L805.9,530.0L805.9,565.0L.0,565.0L.0,530.0z" fill="#fafbff"/>
+            <path d="M.0,565.0L1001.0,565.0L1001.0,600.0L.0,600.0L.0,565.0z" fill="#ffffff"/>
+            <path d="M.0,565.0L805.9,565.0L805.9,600.0L.0,600.0L.0,565.0z" fill="#fafbff"/>
+            <path d="M.0,600.0L1001.0,600.0L1001.0,635.0L.0,635.0L.0,600.0z" fill="#ffffff"/>
+            <path d="M.0,600.0L805.9,600.0L805.9,635.0L.0,635.0L.0,600.0z" fill="#fafbff"/>
+            <path d="M.0,635.0L1001.0,635.0L1001.0,670.0L.0,670.0L.0,635.0z" fill="#ffffff"/>
+            <path d="M.0,635.0L805.9,635.0L805.9,670.0L.0,670.0L.0,635.0z" fill="#fafbff"/>
+            <path d="M.0,670.0L1001.0,670.0L1001.0,705.0L.0,705.0L.0,670.0z" fill="#ffffff"/>
+            <path d="M.0,670.0L805.9,670.0L805.9,705.0L.0,705.0L.0,670.0z" fill="#fafbff"/>
+            <path d="M.0,705.0L1001.0,705.0L1001.0,740.0L.0,740.0L.0,705.0z" fill="#ffffff"/>
+            <path d="M.0,705.0L805.9,705.0L805.9,740.0L.0,740.0L.0,705.0z" fill="#fafbff"/>
+            <path d="M.0,740.0L1001.0,740.0L1001.0,775.0L.0,775.0L.0,740.0z" fill="#ffffff"/>
+            <path d="M.0,740.0L805.9,740.0L805.9,775.0L.0,775.0L.0,740.0z" fill="#fafbff"/>
+            <path d="M.0,775.0L1001.0,775.0L1001.0,810.0L.0,810.0L.0,775.0z" fill="#ffffff"/>
+            <path d="M.0,775.0L805.9,775.0L805.9,810.0L.0,810.0L.0,775.0z" fill="#fafbff"/>
+            <path d="M.0,810.0L1001.0,810.0L1001.0,845.0L.0,845.0L.0,810.0z" fill="#ffffff"/>
+            <path d="M.0,810.0L805.9,810.0L805.9,845.0L.0,845.0L.0,810.0z" fill="#fafbff"/>
+            <path d="M.0,845.0L1001.0,845.0L1001.0,880.0L.0,880.0L.0,845.0z" fill="#ffffff"/>
+            <path d="M.0,845.0L805.9,845.0L805.9,880.0L.0,880.0L.0,845.0z" fill="#fafbff"/>
+            <path d="M.0,880.0L1001.0,880.0L1001.0,915.0L.0,915.0L.0,880.0z" fill="#ffffff"/>
+            <path d="M.0,880.0L805.9,880.0L805.9,915.0L.0,915.0L.0,880.0z" fill="#fafbff"/>
+            <path d="M.0,915.0L1001.0,915.0L1001.0,950.0L.0,950.0L.0,915.0z" fill="#ffffff"/>
+            <path d="M.0,915.0L805.9,915.0L805.9,950.0L.0,950.0L.0,915.0z" fill="#fafbff"/>
+            <path stroke-width="1" stroke="#ebebeb" d="M805.9,20.0L1806.9,20.0M.0,40.0L1806.9,40.0M.0,75.0L1806.9,75.0M.0,110.0L1806.9,110.0M.0,145.0L1806.9,145.0M.0,180.0L1806.9,180.0M.0,215.0L1806.9,215.0M.0,250.0L1806.9,250.0M.0,285.0L1806.9,285.0M.0,320.0L1806.9,320.0M.0,355.0L1806.9,355.0M.0,390.0L1806.9,390.0M.0,425.0L1806.9,425.0M.0,460.0L1806.9,460.0M.0,495.0L1806.9,495.0M.0,530.0L1806.9,530.0M.0,565.0L1806.9,565.0M.0,600.0L1806.9,600.0M.0,635.0L1806.9,635.0M.0,670.0L1806.9,670.0M.0,705.0L1806.9,705.0M.0,740.0L1806.9,740.0M.0,775.0L1806.9,775.0M.0,810.0L1806.9,810.0M.0,845.0L1806.9,845.0M.0,880.0L1806.9,880.0M.0,915.0L1806.9,915.0M982.0,20.0L982.0,.0M1312.0,20.0L1312.0,.0M1653.0,20.0L1653.0,.0M850.0,20.0L850.0,40.0M927.0,20.0L927.0,40.0M982.0,20.0L982.0,40.0M1004.0,20.0L1004.0,40.0M1081.0,20.0L1081.0,40.0M1158.0,20.0L1158.0,40.0M1235.0,20.0L1235.0,40.0M1312.0,20.0L1312.0,40.0M1389.0,20.0L1389.0,40.0M1466.0,20.0L1466.0,40.0M1543.0,20.0L1543.0,40.0M1620.0,20.0L1620.0,40.0M1653.0,20.0L1653.0,40.0M1697.0,20.0L1697.0,40.0M1774.0,20.0L1774.0,40.0M.0,.0L1806.9,.0L1806.9,950.0L.0,950.0L.0,.0z" fill="none"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="12.7" x="859.5">2023-03-16</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="12.7" x="1112.6">2023-04-01</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="12.7" x="1448.1">2023-05-01</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="12.7" x="1695.6">2023-06-01</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="797.6">2023-03-16</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="858.1">2023-03-20</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="924.1">2023-03-27</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="962.6">2023-04-01</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="1012.1">2023-04-03</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="1089.1">2023-04-10</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="1166.1">2023-04-17</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="1243.1">2023-04-24</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="1320.1">2023-05-01</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="1397.1">2023-05-08</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="1474.1">2023-05-15</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="1551.1">2023-05-22</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="1606.1">2023-05-29</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="1644.6">2023-06-01</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="1705.1">2023-06-05</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="33.2" x="1760.1">2023-06-12</tspan>
+            </text>
+            <path stroke-width="0.75" stroke="#b0bffe" d="M806.0,53.0L883.0,53.0L883.0,63.0L806.0,63.0L806.0,53.0z" fill="url(#lg13)"/>
+            <path d="M806.0,53.0L883.0,53.0L883.0,63.0L806.0,63.0L806.0,53.0z" fill="#467dfe"/>
+            <path stroke-width="0.75" stroke="#b0b4df" d="M806.0,88.0L839.0,88.0L839.0,98.0L806.0,98.0L806.0,88.0z" fill="url(#lg14)"/>
+            <path d="M806.0,88.0L839.0,88.0L839.0,98.0L806.0,98.0L806.0,88.0z" fill="#4155c6"/>
+            <path stroke-width="0.75" stroke="#ffc0be" d="M806.0,123.0L828.0,123.0L828.0,133.0L806.0,133.0L806.0,123.0z" fill="url(#lg15)"/>
+            <path d="M806.0,123.0L828.0,123.0L828.0,133.0L806.0,133.0L806.0,123.0z" fill="#ff7e79"/>
+            <path stroke-width="0.75" stroke="#ffe2b3" d="M883.0,158.0L960.0,158.0L960.0,169.0L954.0,163.0L889.0,163.0L883.0,169.0L883.0,158.0z" fill="url(#lg16)"/>
+            <path d="M884.0,159.0L960.0,159.0L960.0,163.0L884.0,163.0L884.0,159.0z" fill="#ff7e79"/>
+            <path stroke-width="0.75" stroke="#ffe2b3" d="M883.0,193.0L916.0,193.0L916.0,203.0L883.0,203.0L883.0,193.0z" fill="url(#lg16)"/>
+            <path d="M883.0,193.0L916.0,193.0L916.0,203.0L883.0,203.0L883.0,193.0z" fill="#ffcc53"/>
+            <path stroke-width="0.75" stroke="#ffe2b3" d="M894.0,228.0L949.0,228.0L949.0,238.0L894.0,238.0L894.0,228.0z" fill="url(#lg16)"/>
+            <path d="M894.0,228.0L949.0,228.0L949.0,238.0L894.0,238.0L894.0,228.0z" fill="#ffcc53"/>
+            <path stroke-width="0.75" stroke="#ffe2b3" d="M916.0,263.0L960.0,263.0L960.0,273.0L916.0,273.0L916.0,263.0z" fill="url(#lg16)"/>
+            <path d="M916.0,263.0L960.0,263.0L960.0,273.0L916.0,273.0L916.0,263.0z" fill="#ffcc53"/>
+            <path stroke-width="0.75" stroke="#c5dcff" d="M960.0,298.0L1037.0,298.0L1037.0,309.0L1031.0,303.0L966.0,303.0L960.0,309.0L960.0,298.0z" fill="url(#lg17)"/>
+            <path d="M961.0,299.0L1037.0,299.0L1037.0,303.0L961.0,303.0L961.0,299.0z" fill="#ffcc53"/>
+            <path stroke-width="0.75" stroke="#c5dcff" d="M960.0,333.0L993.0,333.0L993.0,343.0L960.0,343.0L960.0,333.0z" fill="url(#lg17)"/>
+            <path d="M960.0,333.0L993.0,333.0L993.0,343.0L960.0,343.0L960.0,333.0z" fill="#8dc0ff"/>
+            <path stroke-width="0.75" stroke="#c5dcff" d="M960.0,368.0L982.0,368.0L982.0,378.0L960.0,378.0L960.0,368.0z" fill="url(#lg17)"/>
+            <path d="M960.0,368.0L982.0,368.0L982.0,378.0L960.0,378.0L960.0,368.0z" fill="#8dc0ff"/>
+            <path stroke-width="0.75" stroke="#c5dcff" d="M960.0,403.0L1037.0,403.0L1037.0,413.0L960.0,413.0L960.0,403.0z" fill="url(#lg17)"/>
+            <path d="M960.0,403.0L1037.0,403.0L1037.0,413.0L960.0,413.0L960.0,403.0z" fill="#8dc0ff"/>
+            <path stroke-width="0.75" stroke="#c5dcff" d="M982.0,438.0L1026.0,438.0L1026.0,448.0L982.0,448.0L982.0,438.0z" fill="url(#lg17)"/>
+            <path d="M982.0,438.0L1026.0,438.0L1026.0,448.0L982.0,448.0L982.0,438.0z" fill="#8dc0ff"/>
+            <path stroke-width="0.75" stroke="#bec7ff" d="M1037.0,473.0L1268.0,473.0L1268.0,484.0L1262.0,478.0L1043.0,478.0L1037.0,484.0L1037.0,473.0z" fill="url(#lg18)"/>
+            <path d="M1038.0,474.0L1268.0,474.0L1268.0,478.0L1038.0,478.0L1038.0,474.0z" fill="#8dc0ff"/>
+            <path stroke-width="0.75" stroke="#bec7ff" d="M1037.0,508.0L1114.0,508.0L1114.0,518.0L1037.0,518.0L1037.0,508.0z" fill="url(#lg18)"/>
+            <path d="M1037.0,508.0L1114.0,508.0L1114.0,518.0L1037.0,518.0L1037.0,508.0z" fill="#7991ff"/>
+            <path stroke-width="0.75" stroke="#bec7ff" d="M1114.0,543.0L1268.0,543.0L1268.0,553.0L1114.0,553.0L1114.0,543.0z" fill="url(#lg18)"/>
+            <path d="M1114.0,543.0L1268.0,543.0L1268.0,553.0L1114.0,553.0L1114.0,543.0z" fill="#7991ff"/>
+            <path stroke-width="0.75" stroke="#bec7ff" d="M1191.0,578.0L1268.0,578.0L1268.0,588.0L1191.0,588.0L1191.0,578.0z" fill="url(#lg18)"/>
+            <path d="M1191.0,578.0L1268.0,578.0L1268.0,588.0L1191.0,588.0L1191.0,578.0z" fill="#7991ff"/>
+            <path stroke-width="0.75" stroke="#feccab" d="M1037.0,613.0L1422.0,613.0L1422.0,624.0L1416.0,618.0L1043.0,618.0L1037.0,624.0L1037.0,613.0z" fill="url(#lg19)"/>
+            <path d="M1038.0,614.0L1406.6,614.0L1406.6,618.0L1038.0,618.0L1038.0,614.0z" fill="#7991ff"/>
+            <path stroke-width="0.75" stroke="#feccab" d="M1037.0,648.0L1092.0,648.0L1092.0,658.0L1037.0,658.0L1037.0,648.0z" fill="url(#lg19)"/>
+            <path d="M1037.0,648.0L1092.0,648.0L1092.0,658.0L1037.0,658.0L1037.0,648.0z" fill="#fe9d17"/>
+            <path stroke-width="0.75" stroke="#feccab" d="M1092.0,683.0L1345.0,683.0L1345.0,693.0L1092.0,693.0L1092.0,683.0z" fill="url(#lg19)"/>
+            <path d="M1092.0,683.0L1345.0,683.0L1345.0,693.0L1092.0,693.0L1092.0,683.0z" fill="#fe9d17"/>
+            <path stroke-width="0.75" stroke="#feccab" d="M1345.0,718.0L1422.0,718.0L1422.0,728.0L1345.0,728.0L1345.0,718.0z" fill="url(#lg19)"/>
+            <path d="M1345.0,718.0L1406.6,718.0L1406.6,728.0L1345.0,728.0L1345.0,718.0z" fill="#fe9d17"/>
+            <path stroke-width="0.75" stroke="#ffb9b7" d="M1422.0,753.0L1499.0,753.0L1499.0,763.0L1422.0,763.0L1422.0,753.0z" fill="url(#lg20)"/>
+            <path d="M1422.0,753.0L1499.0,753.0L1499.0,763.0L1422.0,763.0L1422.0,753.0z" fill="#ff6863"/>
+            <path stroke-width="0.75" stroke="#aaaecc" d="M1499.0,788.0L1576.0,788.0L1576.0,798.0L1499.0,798.0L1499.0,788.0z" fill="url(#lg21)"/>
+            <path d="M1499.0,788.0L1576.0,788.0L1576.0,798.0L1499.0,798.0L1499.0,788.0z" fill="#00399d"/>
+            <path stroke-width="0.75" stroke="#b2e8df" d="M1576.0,823.0L1653.0,823.0L1653.0,833.0L1576.0,833.0L1576.0,823.0z" fill="url(#lg22)"/>
+            <path d="M1576.0,823.0L1653.0,823.0L1653.0,833.0L1576.0,833.0L1576.0,823.0z" fill="#4ed7c5"/>
+            <path stroke-width="0.75" stroke="#b0bffe" d="M1653.0,858.0L1730.0,858.0L1730.0,868.0L1653.0,868.0L1653.0,858.0z" fill="url(#lg13)"/>
+            <path d="M1653.0,858.0L1714.6,858.0L1714.6,868.0L1653.0,868.0L1653.0,858.0z" fill="#467dfe"/>
+            <path stroke-width="0.75" stroke="#b0b4df" d="M1730.0,893.0L1774.0,893.0L1774.0,903.0L1730.0,903.0L1730.0,893.0z" fill="url(#lg14)"/>
+            <path d="M1730.0,893.0L1752.0,893.0L1752.0,903.0L1730.0,903.0L1730.0,893.0z" fill="#4155c6"/>
+            <path stroke-width="0.75" stroke="#ffc0be" d="M1730.0,928.0L1806.9,928.0L1806.9,938.0L1730.0,938.0L1730.0,928.0z" fill="url(#lg15)"/>
+            <path d="M1730.0,928.0L1783.9,928.0L1783.9,938.0L1730.0,938.0L1730.0,928.0z" fill="#ff7e79"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="61.0" x="18.3">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="61.0" x="62.0">需求说明</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="61.0" x="183.8">2023-03-16</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="61.0" x="278.3">2023-03-22</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="61.0" x="379.3">7.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="61.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="61.0" x="523.7">CNY 7,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="61.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,57.5C774.9,63.0,770.4,67.5,764.9,67.5C759.4,67.5,754.9,63.0,754.9,57.5C754.9,52.0,759.4,47.5,764.9,47.5C770.4,47.5,774.9,52.0,774.9,57.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="60.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="96.0" x="18.3">2</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="96.0" x="62.0">定义目标</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="96.0" x="183.8">2023-03-16</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="96.0" x="278.3">2023-03-18</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="96.0" x="379.3">3.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="96.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="96.0" x="523.7">CNY 2,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="96.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#f76f20" d="M774.9,92.5C774.9,98.0,770.4,102.5,764.9,102.5C759.4,102.5,754.9,98.0,754.9,92.5C754.9,87.0,759.4,82.5,764.9,82.5C770.4,82.5,774.9,87.0,774.9,92.5z" fill="#f76f20"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="95.7" x="761.7">2</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="131.0" x="18.3">3</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="131.0" x="62.0">获得批准</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="131.0" x="183.8">2023-03-16</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="131.0" x="278.3">2023-03-17</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="131.0" x="379.3">2.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="131.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="131.0" x="523.7">CNY 1,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="131.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#ffaf00" d="M774.9,127.5C774.9,133.0,770.4,137.5,764.9,137.5C759.4,137.5,754.9,133.0,754.9,127.5C754.9,122.0,759.4,117.5,764.9,117.5C770.4,117.5,774.9,122.0,774.9,127.5z" fill="#ffaf00"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="130.7" x="761.7">3</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="166.0" x="18.3">4</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="165.2" x="62.0">需求建模</tspan>
+            </text>
+            <path stroke-width="1" stroke="#626262" d="M48.3,158.5L56.3,158.5L56.3,166.5L48.3,166.5L48.3,158.5zM50.3,162.5L54.3,162.5" fill="none"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="166.0" x="183.8">2023-03-23</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="166.0" x="278.3">2023-03-29</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="166.0" x="379.3">7.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="166.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="166.0" x="520.1">CNY 14,500.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt"/>
+            <path stroke="#d7091d" d="M774.9,162.5C774.9,168.0,770.4,172.5,764.9,172.5C759.4,172.5,754.9,168.0,754.9,162.5C754.9,157.0,759.4,152.5,764.9,152.5C770.4,152.5,774.9,157.0,774.9,162.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="165.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="201.0" x="18.3">5</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="201.0" x="72.0">场景建模</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="201.0" x="183.8">2023-03-23</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="201.0" x="278.3">2023-03-25</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="201.0" x="379.3">3.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="201.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="201.0" x="520.1">CNY 14,500.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="201.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,197.5C774.9,203.0,770.4,207.5,764.9,207.5C759.4,207.5,754.9,203.0,754.9,197.5C754.9,192.0,759.4,187.5,764.9,187.5C770.4,187.5,774.9,192.0,774.9,197.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="200.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="236.0" x="18.3">6</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="236.0" x="72.0">数据建模</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="236.0" x="183.8">2023-03-24</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="236.0" x="278.3">2023-03-28</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="236.0" x="379.3">5.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="236.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="236.0" x="520.1">CNY 14,500.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="236.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,232.5C774.9,238.0,770.4,242.5,764.9,242.5C759.4,242.5,754.9,238.0,754.9,232.5C754.9,227.0,759.4,222.5,764.9,222.5C770.4,222.5,774.9,227.0,774.9,232.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="235.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="271.0" x="18.3">7</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="271.0" x="72.0">行为建模</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="271.0" x="183.8">2023-03-26</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="271.0" x="278.3">2023-03-29</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="271.0" x="379.3">4.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="271.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="271.0" x="520.1">CNY 14,500.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="271.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,267.5C774.9,273.0,770.4,277.5,764.9,277.5C759.4,277.5,754.9,273.0,754.9,267.5C754.9,262.0,759.4,257.5,764.9,257.5C770.4,257.5,774.9,262.0,774.9,267.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="270.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="306.0" x="18.3">8</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="305.2" x="62.0">项目设计</tspan>
+            </text>
+            <path stroke-width="1" stroke="#626262" d="M48.3,298.5L56.3,298.5L56.3,306.5L48.3,306.5L48.3,298.5zM50.3,302.5L54.3,302.5" fill="none"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="306.0" x="183.8">2023-03-30</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="306.0" x="278.3">2023-04-05</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="306.0" x="379.3">7.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="306.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="306.0" x="520.1">CNY 20,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt"/>
+            <path stroke="#d7091d" d="M774.9,302.5C774.9,308.0,770.4,312.5,764.9,312.5C759.4,312.5,754.9,308.0,754.9,302.5C754.9,297.0,759.4,292.5,764.9,292.5C770.4,292.5,774.9,297.0,774.9,302.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="305.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="341.0" x="18.3">9</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="341.0" x="72.0">数据设计</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="341.0" x="183.8">2023-03-30</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="341.0" x="278.3">2023-04-01</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="341.0" x="379.3">3.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="341.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="341.0" x="520.1">CNY 20,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="341.0" x="656.0">刘一飞</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,337.5C774.9,343.0,770.4,347.5,764.9,347.5C759.4,347.5,754.9,343.0,754.9,337.5C754.9,332.0,759.4,327.5,764.9,327.5C770.4,327.5,774.9,332.0,774.9,337.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="340.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="376.0" x="14.7">10</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="376.0" x="72.0">架构设计</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="376.0" x="183.8">2023-03-30</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="376.0" x="278.3">2023-03-31</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="376.0" x="379.3">2.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="376.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="376.0" x="520.1">CNY 20,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="376.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,372.5C774.9,378.0,770.4,382.5,764.9,382.5C759.4,382.5,754.9,378.0,754.9,372.5C754.9,367.0,759.4,362.5,764.9,362.5C770.4,362.5,774.9,367.0,774.9,372.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="375.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="411.0" x="14.7">11</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="411.0" x="72.0">接口设计</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="411.0" x="183.8">2023-03-30</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="411.0" x="278.3">2023-04-05</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="411.0" x="379.3">7.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="411.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="411.0" x="520.1">CNY 20,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="411.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,407.5C774.9,413.0,770.4,417.5,764.9,417.5C759.4,417.5,754.9,413.0,754.9,407.5C754.9,402.0,759.4,397.5,764.9,397.5C770.4,397.5,774.9,402.0,774.9,407.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="410.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="446.0" x="14.7">12</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="446.0" x="72.0">构件设计</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="446.0" x="183.8">2023-04-01</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="446.0" x="278.3">2023-04-04</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="446.0" x="379.3">4.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="446.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="446.0" x="520.1">CNY 20,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="446.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,442.5C774.9,448.0,770.4,452.5,764.9,452.5C759.4,452.5,754.9,448.0,754.9,442.5C754.9,437.0,759.4,432.5,764.9,432.5C770.4,432.5,774.9,437.0,774.9,442.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="445.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="481.0" x="14.7">13</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="480.2" x="62.0">前端框架构建</tspan>
+            </text>
+            <path stroke-width="1" stroke="#626262" d="M48.3,473.5L56.3,473.5L56.3,481.5L48.3,481.5L48.3,473.5zM50.3,477.5L54.3,477.5" fill="none"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="481.0" x="183.8">2023-04-06</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="481.0" x="278.3">2023-04-26</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="481.0" x="375.7">21.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="481.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="481.0" x="520.1">CNY 25,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt"/>
+            <path stroke="#d7091d" d="M774.9,477.5C774.9,483.0,770.4,487.5,764.9,487.5C759.4,487.5,754.9,483.0,754.9,477.5C754.9,472.0,759.4,467.5,764.9,467.5C770.4,467.5,774.9,472.0,774.9,477.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="480.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="516.0" x="14.7">14</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="516.0" x="72.0">静态页面构建</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="516.0" x="183.8">2023-04-06</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="516.0" x="278.3">2023-04-12</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="516.0" x="379.3">7.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="516.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="516.0" x="520.1">CNY 25,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="516.0" x="656.0">赵帅涛</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,512.5C774.9,518.0,770.4,522.5,764.9,522.5C759.4,522.5,754.9,518.0,754.9,512.5C754.9,507.0,759.4,502.5,764.9,502.5C770.4,502.5,774.9,507.0,774.9,512.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="515.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="551.0" x="14.7">15</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="551.0" x="72.0">交互逻辑设计</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="551.0" x="183.8">2023-04-13</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="551.0" x="278.3">2023-04-26</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="551.0" x="375.7">14.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="551.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="551.0" x="520.1">CNY 25,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="551.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,547.5C774.9,553.0,770.4,557.5,764.9,557.5C759.4,557.5,754.9,553.0,754.9,547.5C754.9,542.0,759.4,537.5,764.9,537.5C770.4,537.5,774.9,542.0,774.9,547.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="550.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="586.0" x="14.7">16</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="586.0" x="72.0">前后端接口联调</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="586.0" x="183.8">2023-04-20</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="586.0" x="278.3">2023-04-26</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="586.0" x="379.3">7.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="586.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="586.0" x="520.1">CNY 25,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="586.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,582.5C774.9,588.0,770.4,592.5,764.9,592.5C759.4,592.5,754.9,588.0,754.9,582.5C754.9,577.0,759.4,572.5,764.9,572.5C770.4,572.5,774.9,577.0,774.9,582.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="585.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="621.0" x="14.7">17</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt;font-weight:bold">
+                <tspan y="620.2" x="62.0">后端框架构建</tspan>
+            </text>
+            <path stroke-width="1" stroke="#626262" d="M48.3,613.5L56.3,613.5L56.3,621.5L48.3,621.5L48.3,613.5zM50.3,617.5L54.3,617.5" fill="none"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="621.0" x="183.8">2023-04-06</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="621.0" x="278.3">2023-05-10</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="621.0" x="375.7">35.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="621.0" x="448.2">96.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="621.0" x="520.1">CNY 28,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt"/>
+            <path stroke="#d7091d" d="M774.9,617.5C774.9,623.0,770.4,627.5,764.9,627.5C759.4,627.5,754.9,623.0,754.9,617.5C754.9,612.0,759.4,607.5,764.9,607.5C770.4,607.5,774.9,612.0,774.9,617.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="620.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="656.0" x="14.7">18</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="656.0" x="72.0">后端项目配置</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="656.0" x="183.8">2023-04-06</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="656.0" x="278.3">2023-04-10</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="656.0" x="379.3">5.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="656.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="656.0" x="520.1">CNY 28,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="656.0" x="656.0">王杨乐</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,652.5C774.9,658.0,770.4,662.5,764.9,662.5C759.4,662.5,754.9,658.0,754.9,652.5C754.9,647.0,759.4,642.5,764.9,642.5C770.4,642.5,774.9,647.0,774.9,652.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="655.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="691.0" x="14.7">19</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="691.0" x="72.0">API接口实现</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="691.0" x="183.8">2023-04-11</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="691.0" x="278.3">2023-05-03</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="691.0" x="375.7">23.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="691.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="691.0" x="520.1">CNY 28,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="691.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,687.5C774.9,693.0,770.4,697.5,764.9,697.5C759.4,697.5,754.9,693.0,754.9,687.5C754.9,682.0,759.4,677.5,764.9,677.5C770.4,677.5,774.9,682.0,774.9,687.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="690.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="726.0" x="14.7">20</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="726.0" x="72.0">前后端接口联调</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="726.0" x="183.8">2023-05-04</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="726.0" x="278.3">2023-05-10</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="726.0" x="379.3">7.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="726.0" x="448.2">80.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="726.0" x="520.1">CNY 28,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="726.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,722.5C774.9,728.0,770.4,732.5,764.9,732.5C759.4,732.5,754.9,728.0,754.9,722.5C754.9,717.0,759.4,712.5,764.9,712.5C770.4,712.5,774.9,717.0,774.9,722.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="725.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="761.0" x="14.7">21</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="761.0" x="62.0">单元测试</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="761.0" x="183.8">2023-05-11</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="761.0" x="278.3">2023-05-17</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="761.0" x="379.3">7.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="761.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="761.0" x="523.7">CNY 3,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="761.0" x="656.0">黄彦铭</tspan>
+            </text>
+            <path stroke="#f76f20" d="M774.9,757.5C774.9,763.0,770.4,767.5,764.9,767.5C759.4,767.5,754.9,763.0,754.9,757.5C754.9,752.0,759.4,747.5,764.9,747.5C770.4,747.5,774.9,752.0,774.9,757.5z" fill="#f76f20"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="760.7" x="761.7">2</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="796.0" x="14.7">22</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="796.0" x="62.0">集成测试</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="796.0" x="183.8">2023-05-18</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="796.0" x="278.3">2023-05-24</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="796.0" x="379.3">7.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="796.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="796.0" x="523.7">CNY 5,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="796.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#f76f20" d="M774.9,792.5C774.9,798.0,770.4,802.5,764.9,802.5C759.4,802.5,754.9,798.0,754.9,792.5C754.9,787.0,759.4,782.5,764.9,782.5C770.4,782.5,774.9,787.0,774.9,792.5z" fill="#f76f20"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="795.7" x="761.7">2</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="831.0" x="14.7">23</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="831.0" x="62.0">系统测试</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="831.0" x="183.8">2023-05-25</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="831.0" x="278.3">2023-05-31</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="831.0" x="379.3">7.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="831.0" x="444.6">100.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="831.0" x="523.7">CNY 7,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="831.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,827.5C774.9,833.0,770.4,837.5,764.9,837.5C759.4,837.5,754.9,833.0,754.9,827.5C754.9,822.0,759.4,817.5,764.9,817.5C770.4,817.5,774.9,822.0,774.9,827.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="830.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="866.0" x="14.7">24</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="866.0" x="62.0">验收测试</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="866.0" x="183.8">2023-06-01</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="866.0" x="278.3">2023-06-07</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="866.0" x="379.3">7.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="866.0" x="448.2">80.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="866.0" x="520.1">CNY 11,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="866.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,862.5C774.9,868.0,770.4,872.5,764.9,872.5C759.4,872.5,754.9,868.0,754.9,862.5C754.9,857.0,759.4,852.5,764.9,852.5C770.4,852.5,774.9,857.0,774.9,862.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="865.7" x="761.7">1</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="901.0" x="14.7">25</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="901.0" x="62.0">文档撰写</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="901.0" x="183.8">2023-06-08</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="901.0" x="278.3">2023-06-11</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="901.0" x="379.3">4.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="901.0" x="448.2">50.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="901.0" x="523.7">CNY 5,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="901.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#f76f20" d="M774.9,897.5C774.9,903.0,770.4,907.5,764.9,907.5C759.4,907.5,754.9,903.0,754.9,897.5C754.9,892.0,759.4,887.5,764.9,887.5C770.4,887.5,774.9,892.0,774.9,897.5z" fill="#f76f20"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="900.7" x="761.7">2</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="936.0" x="14.7">26</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="936.0" x="62.0">部署上线</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="936.0" x="183.8">2023-06-08</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="936.0" x="278.3">2023-06-14</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="936.0" x="379.3">7.0 日</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="936.0" x="448.2">70.0%</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="936.0" x="520.1">CNY 18,000.00</tspan>
+            </text>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:9.00pt">
+                <tspan y="936.0" x="650.0">全体成员</tspan>
+            </text>
+            <path stroke="#d7091d" d="M774.9,932.5C774.9,938.0,770.4,942.5,764.9,942.5C759.4,942.5,754.9,938.0,754.9,932.5C754.9,927.0,759.4,922.5,764.9,922.5C770.4,922.5,774.9,927.0,774.9,932.5z" fill="#d7091d"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:微软雅黑;font-size:8.00pt;font-weight:bold">
+                <tspan y="935.7" x="761.7">1</tspan>
+            </text>
+            <path stroke-width="1" stroke="#ebebeb" d="M.0,.0L1806.9,.0L1806.9,950.0L.0,950.0L.0,.0zM44.0,.0L44.0,950.0M172.0,.0L172.0,950.0M263.0,.0L263.0,950.0M361.0,.0L361.0,950.0M431.0,.0L431.0,950.0M501.0,.0L501.0,950.0M624.0,.0L624.0,950.0M725.0,.0L725.0,950.0M805.0,.0L805.0,950.0M.0,40.0L1806.9,40.0M.0,75.0L1806.9,75.0M.0,110.0L1806.9,110.0M.0,145.0L1806.9,145.0M.0,180.0L1806.9,180.0M.0,215.0L1806.9,215.0M.0,250.0L1806.9,250.0M.0,285.0L1806.9,285.0M.0,320.0L1806.9,320.0M.0,355.0L1806.9,355.0M.0,390.0L1806.9,390.0M.0,425.0L1806.9,425.0M.0,460.0L1806.9,460.0M.0,495.0L1806.9,495.0M.0,530.0L1806.9,530.0M.0,565.0L1806.9,565.0M.0,600.0L1806.9,600.0M.0,635.0L1806.9,635.0M.0,670.0L1806.9,670.0M.0,705.0L1806.9,705.0M.0,740.0L1806.9,740.0M.0,775.0L1806.9,775.0M.0,810.0L1806.9,810.0M.0,845.0L1806.9,845.0M.0,880.0L1806.9,880.0M.0,915.0L1806.9,915.0" fill="none"/>
+        </g>
+    </g>
+</svg>
